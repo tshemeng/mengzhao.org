@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "antfu.i18n-ally",
+    "antfu.iconify",
+    "bradlc.vscode-tailwindcss",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "gruntfuggly.todo-tree",
+    "howardzuo.vscode-npm-dependency",
+    "mhutchie.git-graph",
+    "octref.vetur",
+  ]
+}
